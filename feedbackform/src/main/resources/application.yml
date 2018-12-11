@@ -1,0 +1,5 @@
+micronaut:
+    function:
+        name: feedbackform
+    server:
+        port: 8081
